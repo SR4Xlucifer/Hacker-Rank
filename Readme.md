@@ -58,8 +58,6 @@ This repository helps me:
 
 ```
 
----
-
 Let me know if you want to:
 - Add progress badges or HackerRank profile link
 - Include auto-generated tables of contents
